@@ -1,9 +1,18 @@
 .fab {}
-.player{}
+.player{
+    
+}
 .infomation{}
 .titleandButton{}
 .btn{}
-.views{}
+.views{
+}
+.vi {
+    position:relative; 
+    height:500px;
+    overflow:hidden;
+    max-width:100%;
+}
 .action{}
 .channel{}
 .metadata{}
